@@ -1,0 +1,17 @@
+footer{
+	background-color: black;
+}
+footer,
+.h3{
+	color: white;
+	text-align: center;
+}
+nav{
+	background-color: whitesmoke;
+	padding: 5px;
+}
+footer,
+.col-1{
+	background-color: black;
+	
+}
